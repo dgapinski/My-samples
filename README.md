@@ -1,7 +1,7 @@
 # My-samples
 These are samples I’ve made for making my admin life easier:
 
-Get-VeeamTapesNeeded
+GET-VEEAMTAPESNEEDED.PS1
 Figure out what tapes are needed this week and send that list out
 
 LARD.PS1 
@@ -18,6 +18,6 @@ scripts live in the \Jobs subfolder, and are listed in the form. Then when the
 job runs on the chosen OU, the final computer list is made of computers that
 respond to pinging, and the results output back to grid view when they complete.
 
-oldfilecleanup.ps1 
+OLDFILECLEANUP.PS1 
 Deletes old files based on number of days old
 
